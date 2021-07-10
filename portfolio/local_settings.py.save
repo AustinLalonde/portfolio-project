@@ -1,0 +1,15 @@
+
+SECRET_KEY = 'vz+&yx#!imtmy!5&_-qb^w7q69eggsyqljs6d)*pwhatsd-*yuip(s+asn5m'
+
+ALLOWED_HOSTS = ['134.122.34.168']
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'postgres',
+        'USER':'postgres',
+        'PASSWORD':'Shad*w123123',
+        'HOST':'localhost',
+        'PORT':'5432',
+    }
+
